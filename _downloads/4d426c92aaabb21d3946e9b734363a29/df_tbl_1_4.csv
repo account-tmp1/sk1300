@@ -1,0 +1,7 @@
+,Phase 1,Phase 2,Phase 3,Phase 4,Phase 5
+Acid Plant Capacity (t/d H2SO4),2250,2250,2250,2250,3000
+Nominal Design LCE Production (t/y),40000,40000,40000,40000,n/a
+Beneficiation,Y,Y,Y,Y,Y
+"Leaching, Neutralization & CCD",Y,Y,Y,Y,Y
+Magnesium and Calcium Removal,Y,Y,Y,Y,Partial
+Lithium Carbonate Production,Y,Y,Y,Y,n/a

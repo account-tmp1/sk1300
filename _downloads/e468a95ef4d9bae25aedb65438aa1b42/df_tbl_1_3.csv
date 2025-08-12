@@ -1,0 +1,25 @@
+Classification,Geological Domain Text,Density (g/cc),Lithium (ppm),"ROM Dry (Million Metric Tonnes),100% Project Basis","ROM LCE Dry (Million Metric Tonnes), 100% Project Basis","ROM Dry (Million Metric Tonnes), 62% LAC Control Basis","ROM LCE Dry (Million Metric Tonnes), 62% LAC Control Basis",Metallurgical Recovery (%)
+Proven,Subtotal,1.83,3180,269.5,4.5,167.1,2.8,82
+Proven,Subtotal (Smectite),1.77,2420,18.2,0.2,11.3,0.1,66
+Proven,Smectite 2,1.71,1110,0.5,0,0.3,0,73
+Proven,Smectite 1,1.77,2460,17.7,0.2,11,0.1,66
+Proven,Subtotal (Illite),1.84,3230,251.3,4.3,155.8,2.7,82
+Proven,Illite 3,1.86,3000,65.6,1.1,40.7,0.7,84
+Proven,Illite 2,1.9,5020,58.8,1.6,36.5,1,81
+Proven,Illite 1,1.8,2510,126.9,1.7,78.7,1,83
+Probable,Subtotal,1.8,2320,787.1,9.7,488,6,80
+Probable,Subtotal (Smectite),1.76,2270,74.1,0.9,45.9,0.6,67
+Probable,Smectite 2,1.73,1730,25.3,0.2,15.7,0.1,76
+Probable,Smectite 1,1.77,2550,48.7,0.7,30.2,0.4,64
+Probable,Subtotal (Illite),1.8,2330,713.1,8.8,442.1,5.5,81
+Probable,Illite 3,1.85,3110,102,1.7,63.2,1,83
+Probable,Illite 2,1.87,4690,77,1.9,47.7,1.2,81
+Probable,Illite 1,1.78,1840,534,5.2,331.1,3.2,80
+Proven + Probable,Subtotal,1.81,2540,1056.7,14.3,655.2,8.9,80
+Proven + Probable,Subtotal - Smectite,1.76,2300,92.2,1.1,57.2,0.7,67
+Proven + Probable,Smectite 2,1.73,1720,25.8,0.2,16,0.1,76
+Proven + Probable,Smectite 1,1.77,2530,66.4,0.9,41.2,0.6,64
+Proven + Probable,Subtotal - Illite,1.81,2560,964.4,13.2,597.9,8.2,82
+Proven + Probable,Illite 3,1.85,3070,167.7,2.7,104,1.7,83
+Proven + Probable,Illite 2,1.88,4830,135.9,3.5,84.3,2.2,81
+Proven + Probable,Illite 1,1.79,1970,660.9,6.9,409.8,4.3,81
